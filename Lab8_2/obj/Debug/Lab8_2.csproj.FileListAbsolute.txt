@@ -1,0 +1,13 @@
+C:\Users\n_mel\VS Code projects\Lab8_2\Lab8_2\bin\Debug\Lab8_2.exe.config
+C:\Users\n_mel\VS Code projects\Lab8_2\Lab8_2\bin\Debug\Lab8_2.exe
+C:\Users\n_mel\VS Code projects\Lab8_2\Lab8_2\bin\Debug\Lab8_2.pdb
+C:\Users\n_mel\VS Code projects\Lab8_2\Lab8_2\obj\Debug\Lab8_2.csproj.AssemblyReference.cache
+C:\Users\n_mel\VS Code projects\Lab8_2\Lab8_2\obj\Debug\Lab8_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\n_mel\VS Code projects\Lab8_2\Lab8_2\obj\Debug\Lab8_2.Properties.Resources.resources
+C:\Users\n_mel\VS Code projects\Lab8_2\Lab8_2\obj\Debug\Lab8_2.csproj.GenerateResource.cache
+C:\Users\n_mel\VS Code projects\Lab8_2\Lab8_2\obj\Debug\Lab8_2.csproj.CoreCompileInputs.cache
+C:\Users\n_mel\VS Code projects\Lab8_2\Lab8_2\obj\Debug\Lab8_2.exe
+C:\Users\n_mel\VS Code projects\Lab8_2\Lab8_2\obj\Debug\Lab8_2.pdb
+C:\Users\n_mel\VS Code projects\Lab8_2\Lab8_2\obj\Debug\Lab8_2.Calendar.resources
+C:\Users\n_mel\VS Code projects\Lab8_2\Lab8_2\obj\Debug\Lab8_2.EventSetter.resources
+C:\Users\n_mel\VS Code projects\Lab8_2\Lab8_2\obj\Debug\Lab8_2.EventForm.resources
